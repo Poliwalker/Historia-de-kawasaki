@@ -7,14 +7,14 @@ body {
 }
 
 img {
-    width 500px;
-    height: 400px;
-    padding: 50px;
+    width:500px;
+    height:400px;
+    padding:50px;
 }
 
 video {
-    width: 600px;
-    height: 500px;
+    width:600px;
+    height:500px;
     padding:50px;
 }
 
@@ -65,10 +65,6 @@ background-color: rgb(74, 255, 74);
     list-style: none;
     display: block;
     padding: 8px 0;
-
-   
-    
-    
 }
 
 .menu-interactivo:checked + .interactivo {
@@ -89,6 +85,5 @@ background-color: rgb(74, 255, 74);
 
 .footer-enlaces {
     font-size: 20px;
-   
 
 }
