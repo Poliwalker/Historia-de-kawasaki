@@ -6,8 +6,19 @@ body {
     text-align: center;
 }
 
+img {
+    width 500px;
+    height: 400px;
+}
 
+video {
+    width: 600px;
+    height: 500px;
+}
 
+audio {
+    width:100%;
+}
 
 .botones-menu {
 margin:0 auto;
