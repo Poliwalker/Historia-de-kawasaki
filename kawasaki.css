@@ -9,11 +9,13 @@ body {
 img {
     width 500px;
     height: 400px;
+    padding: 50px;
 }
 
 video {
     width: 600px;
     height: 500px;
+    padding:50px;
 }
 
 audio {
