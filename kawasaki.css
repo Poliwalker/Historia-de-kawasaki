@@ -67,3 +67,15 @@ background-color: rgb(74, 255, 74);
     font-family: monospace;
    
 }
+
+.footer-title {
+    color: rgb(99, 230, 99);
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer-enlaces {
+    font-size: 20px;
+   
+
+}
